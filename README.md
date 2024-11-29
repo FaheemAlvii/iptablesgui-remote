@@ -11,3 +11,9 @@ Remotely Manage your IPTables using GUI based on ssh connection.
       ]
 
 4. python multi-server.py | python3 multi-server.py
+
+
+Screenshots:
+
+![image](https://github.com/user-attachments/assets/c7ba3871-72ad-4fc7-8f71-c57a477b6619)
+![image](https://github.com/user-attachments/assets/5cc1b693-0009-420a-ab5a-d1758cdd5e0e)
