@@ -2,7 +2,7 @@
 Remotely Manage your IPTables using GUI based on ssh connection.
 
 1. Make Sure Python3 is installed
-2. pip3 install flask paramiko
+2. pip3 install -r requirements.txt
 3. Open multi-server.py and add Servers in this format:
       SERVERS = [
           {'name': 'Server 1', 'host': 'yourserverip', 'username': 'root', 'password': 'serverpass'},
