@@ -1,3 +1,5 @@
+[![Python application](https://github.com/FaheemAlvii/iptablesgui-remote/actions/workflows/python-app.yml/badge.svg)](https://github.com/FaheemAlvii/iptablesgui-remote/actions/workflows/python-app.yml)
+
 # iptablesgui-remote
 Remotely Manage your IPTables using GUI based on ssh connection.
 
